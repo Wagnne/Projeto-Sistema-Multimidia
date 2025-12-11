@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-label="Botão pausar">
+  <circle cx="100" cy="100" r="92" fill="#ffffff" stroke="#0b66ff" stroke-width="8"/>
+  <ellipse cx="100" cy="136" rx="42" ry="6" fill="#000000" opacity="0.06"/>
+  <rect x="72" y="68" width="18" height="64" rx="3" fill="#0b66ff"/>
+  <rect x="110" y="68" width="18" height="64" rx="3" fill="#0b66ff"/>
+</svg>
