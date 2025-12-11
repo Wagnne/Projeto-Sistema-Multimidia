@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-label="Botão tocar">
+  <circle cx="100" cy="100" r="92" fill="#ffffff" stroke="#0b66ff" stroke-width="8"/>
+  <ellipse cx="100" cy="136" rx="42" ry="6" fill="#000000" opacity="0.06"/>
+  <polygon points="85,70 85,130 140,100" fill="#0b66ff"/>
+</svg>
