@@ -1,73 +1,43 @@
-# Welcome to your Lovable project
+Sistema de Multimídia
 
-## Project info
+Este repositório contém um projeto de sistema de multimídia desenvolvido para fins acadêmicos, incluindo componentes de áudio, imagens e outras mídias digitais.
 
-**URL**: https://lovable.dev/projects/94e3537a-5306-4469-8811-bcbcd7a210b7
+Pré-requisitos
 
-## How can I edit this code?
+Certifique-se de ter instalado em sua máquina:
 
-There are several ways of editing your application.
+Node.js (versão atual LTS recomendada)
 
-**Use Lovable**
+NPM (gerenciador de pacotes que já vem com o Node)
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/94e3537a-5306-4469-8811-bcbcd7a210b7) and start prompting.
+Instalação
 
-Changes made via Lovable will be committed automatically to this repo.
+No diretório do projeto, execute o comando:
 
-**Use your preferred IDE**
+npm install
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Este comando irá instalar todas as dependências necessárias.
 
-Follow these steps:
+Execução do Projeto
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Após concluir a instalação das dependências, execute o projeto com:
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
-```
 
-**Edit a file directly in GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Ou, caso esteja configurado de outra forma no seu package.json:
 
-**Use GitHub Codespaces**
+npm run start
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Objetivo do Projeto
 
-## What technologies are used for this project?
+O sistema tem como finalidade demonstrar funcionalidades relacionadas a multimídia, permitindo explorar conteúdos como áudio, imagens matriciais, imagens vetoriais e demais elementos utilizados no desenvolvimento multimídia.
 
-This project is built with:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/94e3537a-5306-4469-8811-bcbcd7a210b7) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Alunos:
+Wagner Vinícius Cassimiro da Silva - 01615748 
+Juan Pablo Santos Ferreira - 01582919
+João Victor Borges de Lira - 01595180
+Lucas Araújo da Silva - 01589449
+Paulo Vinícius Feliciano de Souza - 016181333 
