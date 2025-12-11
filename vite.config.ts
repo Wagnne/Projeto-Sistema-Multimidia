@@ -4,7 +4,6 @@ import path from "path";
 import { componentTagger } from "lovable-tagger";
 
 export default defineConfig({
-  base: "Projeto-Sistema-Multimidia",
   server: {
     host: "::",
     port: 8080,
